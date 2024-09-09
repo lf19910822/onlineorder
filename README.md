@@ -39,6 +39,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+### `npm ci`
+可能有版本冲突就用这个安装
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -68,3 +70,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## 项目亮点
+1、选最熟悉的，而不是真正最难的
+2、回答为什么难，以及怎么处理的
+3、controller设计？数据库设计？
+4、数据库例子：数据库设计难，复杂query可以快速处理（SQL亮点），因为有ABC use cases，封装几个tables，每个tables大概几个东西，query复杂点在哪儿，所以使用
+了某某数据库。。。。
+5、前端问题：what how why 是什么，怎么做，为什么这么做。面试直接写代码，给environmrnt。
